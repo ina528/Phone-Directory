@@ -1,0 +1,4 @@
+function searchContact() {
+    let name = document.getElementById("name").value;
+    alert("Searching for: " + name);
+}

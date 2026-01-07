@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Phone Directory</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Phone Directory</h2>
+
+<input type="text" id="name" placeholder="Enter Name">
+<button onclick="searchContact()">Search</button>
+
+<script src="script.js"></script>
+</body>
+</html>

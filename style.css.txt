@@ -1,0 +1,8 @@
+body {
+    font-family: Arial;
+}
+
+input, button {
+    padding: 6px;
+    margin: 5px;
+}
